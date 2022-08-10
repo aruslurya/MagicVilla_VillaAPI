@@ -20,6 +20,7 @@ namespace MagicVilla_VillaAPI.Controllers
 
         public WeatherForecastController(ILogger<WeatherForecastController> logger)
         {
+            //Addin Comment for Git
             _logger = logger;
         }
 
